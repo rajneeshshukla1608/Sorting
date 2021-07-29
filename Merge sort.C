@@ -1,7 +1,23 @@
+
+
+/* Merge sort in c 
+
+# love to code in Turboc++
+
+Used 999999 - at the place of infinity because infinity can be typed
+just don't copy the copy analyze the code first and try to have the concept first
+
+complexity -
+Space = O(nlogn) 
+time = O(n)
+
+Thankyu - 
+*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-#define MAX_LEN 10
+#define MAX_LEN 10  
 #define INFINITY 999999
 
 void merge(int *array, int p, int q, int r){
