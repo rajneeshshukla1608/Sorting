@@ -14,6 +14,9 @@ of O(N²), which is extremely inefficient.
 #include<stdio.h>
 #include<conio.h>
 #define MAX_LEN 10
+// The below is one of the way to make short to your bit datatype with flag so now, flag size is 1 only either 0 or 1 so, it reduces the space complexity in some way 
+// so you can try this 
+
 typedef short short short short int bit;
 
 int main(){
