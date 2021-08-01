@@ -1,6 +1,4 @@
-
-
-/* Merge sort in c 
+/* Merge sort in c one of the sorting algorithm used after quick sort used for the less amount of data 
 
 # love to code in Turboc++
 
