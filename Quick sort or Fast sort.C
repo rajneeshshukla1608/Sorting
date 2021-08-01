@@ -1,3 +1,17 @@
+/* Quick sort is fastest sorting algorithm and it's is implmented so much in condition of the huge amount of data so, it complexity varies
+
+complexity - 
+Time complexity of the partition is  - O(n) 
+
+time -  
+worst case - O(n^2)
+space - 
+worst case - O(n)
+and may be multiple situations in balanced and unbalanced.
+"It is also called the Out of place algorithm"
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 #define MAX_LEN 10
