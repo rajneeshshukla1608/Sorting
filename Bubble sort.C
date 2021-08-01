@@ -1,5 +1,12 @@
 /*  
+Bubble sort sorting algorithm 
 
+Time complexity - O(n^2)
+Space complexity - O(1)
+Q. Why not bubble sort?
+A. If an array is already sorted, Bubble Sort will only pass through the array
+once (using concept two below), however the worst case scenario is a run time 
+of O(N²), which is extremely inefficient.
 
 */
 
