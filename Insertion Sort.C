@@ -1,4 +1,9 @@
-/* Insertion sort in c in iterative method*/
+/* Insertion sort in c in iterative method
+
+Time complexity - O(n^2)
+Space complexity - O(1)
+
+*/
 
 #include<stdio.h>
 #include<conio.h>
