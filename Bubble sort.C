@@ -10,7 +10,6 @@ of O(N²), which is extremely inefficient.
 
 */
 
-
 #include<stdio.h>
 #include<conio.h>
 #define MAX_LEN 10
