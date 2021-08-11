@@ -1,5 +1,5 @@
 /*  
-Bubble sort sorting algorithm 
+Bubble sort sorting algorithm in c
 
 Time complexity - O(n^2)
 Space complexity - O(1)
