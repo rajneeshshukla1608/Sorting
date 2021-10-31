@@ -1,2 +1,2 @@
-# Sorting - bucket, Radix sorting are on wa
-This repo consist of the sorting progrms ex- Insertion, selection, quick, merge, bucket, radix etc
+# Sorting - C & C++
+This repo consist of the sorting progrms ex- Insertion, Selection, Quick, Merge etc
